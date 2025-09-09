@@ -33,7 +33,7 @@ Implements a simulation with Monkeys, Giraffes, and Elephants, each with health 
 ### Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/zoo-simulator-php.git
+   git clone https://github.com/Ahmedkhnunar/zoo-simulator-php.git
    cd zoo-simulator-php
 
 2. Start a PHP local server:
